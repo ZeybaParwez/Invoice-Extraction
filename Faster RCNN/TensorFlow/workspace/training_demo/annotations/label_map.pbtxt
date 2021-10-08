@@ -1,0 +1,49 @@
+item {
+    id: 1
+    name: 'Keyword'
+}
+
+item {
+    id: 2
+    name: 'Bill_from'
+}
+
+item {
+    id: 3
+    name: 'Bill_to'
+}
+
+item {
+    id: 4
+    name: 'Date'
+}
+
+item {
+    id: 5
+    name: 'Invoice_number'
+}
+
+item {
+    id: 6
+    name: 'Purchase_number'
+}
+
+item {
+    id: 7
+    name: 'Total'
+}
+
+item {
+    id: 8
+    name: 'Details'
+}
+
+item {
+    id: 9
+    name: 'Balance'
+}
+
+item {
+    id: 10
+    name: 'Tax'
+}
