@@ -1,3 +1,4 @@
+This model is intended to be run on Google Colab. Pro version is also required for best result.
 Need to clone Tensoeflow Object Detection API within TensorFlow folder. 
 The test images are in zip format. Need to be unzipped.
 Tensorflow models needs to be downloaded as shown in .ipynb file
